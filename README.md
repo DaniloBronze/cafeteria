@@ -2,6 +2,8 @@
 
 Bem-vindo(a) ao Sistema de Gerenciamento de Produtos da Loja Serenatto! Este projeto é um CRUD (Create, Read, Update, Delete) que permite a gestão de produtos em uma loja virtual, com funcionalidades para edição, exclusão e cadastro de produtos. Além disso, é possível gerar relatórios em PDF dos produtos cadastrados.
 
+**OBS: Este projeto é fictício e foi criado com o propósito de prática e aprendizado. A Loja Serenatto não existe.**
+
 ## Funcionalidades
 
 - Cadastro de novos produtos, incluindo informações como tipo, nome, descrição, preço e imagem.
@@ -36,6 +38,9 @@ Contribuições são bem-vindas! Se você encontrar bugs, tiver sugestões ou de
 
 ## Licença
 Este projeto está licenciado sob a Licença MIT.
+
+## Contato
+Em caso de dúvidas ou necessidade de suporte, entre em contato conosco pelo e-mail contato@serenatto.com.
 
 <div align="center">
   Feito com ❤️ pela equipe Serenatto
